@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar reddit-post-aggregator-server-0.0.1-SNAPSHOT -Dserver.port=$PORT $JAR.OPTS
